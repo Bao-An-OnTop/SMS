@@ -1,5 +1,6 @@
-# CRE : MINHNGUYEN3004 AND TRONGKHAI
+# CRE : BAO AN
 import requests, os, time, sys
+import concurrent.futures
 from concurrent.futures import ThreadPoolExecutor
 from time import sleep
 xanhla = '\033[1;32m'
