@@ -1,9 +1,10 @@
+ import os
+import sys
+import time 
+from time for sleep
 import requests
 import concurrent.futures
-import os
-import sys
 import time
-from time import sleep
 
 def tv360(phone):
   data = '{"msisdn":"phone"}'
