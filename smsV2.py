@@ -1903,7 +1903,7 @@ def run(phone, i):
         time.sleep(1)
 
 if __name__ == "__main__":
-    print("BAO AN ON TOP)
+    print("BAO AN ON TOP")
     phone = input("Nhập số điện thoại: ")
     count = int(input("Nhập số lần spam: "))
     
